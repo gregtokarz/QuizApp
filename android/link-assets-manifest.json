@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlfaSlabOne-Regular.ttf",
+      "sha1": "3379279f774fdb42b7e4bb027efb64337d791f1c"
+    },
+    {
+      "path": "assets/fonts/Anton-Regular.ttf",
+      "sha1": "49243712633711db3b673d0b03536e0180cd7ddb"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/RubikBubbles-Regular.ttf",
+      "sha1": "c2c19e308f9e108e6ecebe2bd4e875b9cade5c9c"
+    }
+  ]
+}
